@@ -113,7 +113,7 @@ button {
   width: 318px;
 }
 
-#add-tasks > [styling="basic-button"]:hover {
+#add-tasks [styling="basic-button"]:hover {
   color: #0fc57c;
 }
 
